@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    background-color: #eff2f5;
+    
+}
+
+nav a, .titulo{
+    font-weight: bold;
+    list-style: none;
+}
+nav a:hover{
+    text-decoration: none;
+}
+.pokecard{
+    display: flex;
+    justify-content: center;
+    border-radius: 5%;
+    margin: 10px 20px 20px 60px;
+}
